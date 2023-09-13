@@ -2,20 +2,6 @@
 
 <h2><span style="font-size:12px">Coreset Learning Based Sparse Black-box Adversarial Attack For Video Recognition</span> </h2> 
 
-<div>
-    <a target='_blank'>Jiefu Chen </a>&emsp;
-    <a target='_blank'>Tong Chen </a>&emsp;
-    <a target='_blank'>Xing Xu  </a>&emsp;
-    <a target='_blank'>Guoqing Wang </a>&emsp;
-    <a target='_blank'>Yang Yang  </a>&emsp;
-    <a target='_blank'>Heng Tao Shen </a>&emsp;
-
-</div>
-<br>
-<div>
-    University of Electronic Science and technology
-</div>
-
 <br>
 <img src="./docs/static/images/kuangjiatu.png?raw=true" width="768px">
 
