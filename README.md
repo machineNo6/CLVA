@@ -17,7 +17,7 @@
 </div>
 
 <br>
-<img src="./docs/static/images/kuangjiatu.jpg?raw=true" width="768px">
+<img src="./docs/static/images/kuangjiatu.png?raw=true" width="768px">
 
 <div align="justify"> we propose a novel frame selection algorithm named CLVA, which is based on the coreset concept of active learning, to address the issues of frame selection efficiency and sparsity in existing video attack models. Specifically, CLVA simulates the process of coreset learning to identify frames with high weight for the attack recognition model. To achieve this, we consider a complete video clip as a dataset and treat all frames within it as a mini-dataset. We combine the coreset search algorithm with the attack and recognition algorithm to find frames with higher weights. The frames with the shortest distance are then extracted as coreset members using the K-Center-Greedy algorithm. We guarantee that the frames we find are optimal solutions by accurately calculating the distance between frames through the feature representation of the model. Finally, we perform a sparse attack on the selected frames.
 </div>
@@ -61,7 +61,7 @@ python new_coreset.py 6 --gpus 0
 ```
 #### Results
 
-<img src="./docs/static/images/result.jpg?raw=true" width="768px">
+<img src="./docs/static/images/result.png?raw=true" width="768px">
 
 ## Acknowledgement
 Thanks to
